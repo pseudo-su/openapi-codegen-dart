@@ -1,0 +1,17 @@
+README.md
+doc/Error.md
+doc/Pet.md
+doc/PetsApi.md
+lib/api.dart
+lib/api/pets_api.dart
+lib/api_client.dart
+lib/api_exception.dart
+lib/api_helper.dart
+lib/auth/api_key_auth.dart
+lib/auth/authentication.dart
+lib/auth/http_basic_auth.dart
+lib/auth/http_bearer_auth.dart
+lib/auth/oauth.dart
+lib/model/error.dart
+lib/model/pet.dart
+pubspec.yaml

@@ -1,0 +1,9 @@
+README.md
+lib/api.dart
+lib/api_util.dart
+lib/auth/api_key_auth.dart
+lib/auth/auth.dart
+lib/auth/basic_auth.dart
+lib/auth/oauth.dart
+lib/serializers.dart
+pubspec.yaml

@@ -1,0 +1,5 @@
+**
+!lib/**
+!doc/**
+!pubspec.yaml
+!*.md
